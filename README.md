@@ -15,4 +15,4 @@ This is a simple Python program that calculates the final price of an item after
 3. If true, it applies the discount and returns the new price.
 4. Otherwise, it returns the original price.
 
-##  Sample Output
+
